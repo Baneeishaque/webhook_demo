@@ -1,0 +1,16 @@
+{
+  "name": "baneeishaque/webhook_demo",
+  "description": "Webhook Demo",
+  "minimum-stability": "dev",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Banee Ishaque K",
+      "email": "baneeishaque@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/var-dumper": "v4.1.7",
+    "filp/whoops": "2.3.1"
+  }
+}
